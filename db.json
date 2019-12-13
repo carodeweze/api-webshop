@@ -123,7 +123,7 @@
         "gender": "men"
       }
     ],
-    "kids": [
+    "children": [
       {
         "id": 13,
         "image": "images/header.jpg",
@@ -132,7 +132,7 @@
         "brand": "Cotton on",
         "price": "€ 34,95",
         "color": "white",
-        "gender": "men"
+        "gender": "child"
       },
       {
         "id": 14,
@@ -142,7 +142,7 @@
         "brand": "Cotton on",
         "price": "€ 14,95",
         "color": "white smooth",
-        "gender": "kids"
+        "gender": "child"
       },
       {
         "id": 15,
@@ -152,7 +152,7 @@
         "brand": "Nike Sportswear",
         "price": "€ 119,90",
         "color": "black",
-        "gender": "kids"
+        "gender": "child"
       },
       {
         "id": 16,
@@ -162,7 +162,7 @@
         "brand": "Massimo Dutti",
         "price": "€ 49,95",
         "color": "grey",
-        "gender": "kids"
+        "gender": "child"
       },
       {
         "id": 17,
@@ -172,7 +172,7 @@
         "brand": "Reebok Classic",
         "price": "€ 54,95",
         "color": "black",
-        "gender": "kids"
+        "gender": "child"
       },
       {
         "id": 18,
@@ -182,7 +182,7 @@
         "brand": "Vans",
         "price": "€ 49,95",
         "color": "black/true white",
-        "gender": "kids"
+        "gender": "child"
       }
     ]
 }
