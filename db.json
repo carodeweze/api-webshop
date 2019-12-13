@@ -8,7 +8,7 @@
         "brand": "Nike",
         "price": "€ 94,95",
         "color": "black",
-        "gender": "woman"
+        "gender": "women"
       },
       {
         "id": 2,
@@ -18,7 +18,7 @@
         "brand": "Puma",
         "price": "€ 59,95",
         "color": "white/silver",
-        "gender": "woman"
+        "gender": "women"
       },
       {
         "id": 3,
@@ -28,7 +28,7 @@
         "brand": "Skechers Sport",
         "price": "€ 59,95",
         "color": "black/rose gold",
-        "gender": "woman"
+        "gender": "women"
       },
       {
         "id": 4,
@@ -38,7 +38,7 @@
         "brand": "Buffalo",
         "price": "€ 99,99",
         "color": "white",
-        "gender": "woman"
+        "gender": "women"
       },
       {
         "id": 5,
@@ -48,7 +48,7 @@
         "brand": "Tata Italia",
         "price": "€ 54,95",
         "color": "black",
-        "gender": "woman"
+        "gender": "women"
       },
       {
         "id": 6,
@@ -58,7 +58,7 @@
         "brand": "Calvin Klein Jeans",
         "price": "€ 99,95",
         "color": "black",
-        "gender": "woman"
+        "gender": "women"
       }
     ],
     "men": [
@@ -132,7 +132,7 @@
         "brand": "Cotton on",
         "price": "€ 34,95",
         "color": "white",
-        "gender": "child"
+        "gender": "children"
       },
       {
         "id": 14,
@@ -142,7 +142,7 @@
         "brand": "Cotton on",
         "price": "€ 14,95",
         "color": "white smooth",
-        "gender": "child"
+        "gender": "children"
       },
       {
         "id": 15,
@@ -152,7 +152,7 @@
         "brand": "Nike Sportswear",
         "price": "€ 119,90",
         "color": "black",
-        "gender": "child"
+        "gender": "children"
       },
       {
         "id": 16,
@@ -162,7 +162,7 @@
         "brand": "Massimo Dutti",
         "price": "€ 49,95",
         "color": "grey",
-        "gender": "child"
+        "gender": "children"
       },
       {
         "id": 17,
@@ -172,7 +172,7 @@
         "brand": "Reebok Classic",
         "price": "€ 54,95",
         "color": "black",
-        "gender": "child"
+        "gender": "children"
       },
       {
         "id": 18,
@@ -182,7 +182,7 @@
         "brand": "Vans",
         "price": "€ 49,95",
         "color": "black/true white",
-        "gender": "child"
+        "gender": "children"
       }
     ]
 }
