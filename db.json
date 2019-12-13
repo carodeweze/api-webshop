@@ -2,6 +2,7 @@
     "products": [
       {
         "id": 1,
+        "image": "../images/header.jpg",
         "article": "NI111A0IU-Q12",
         "name": "RYZ - Sneakers laag",
         "brand": "Nike",
