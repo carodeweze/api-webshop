@@ -1,0 +1,11 @@
+{
+    "products": [
+      {
+        "id": 1,
+        "article": "NI111A0IU-Q12",
+        "brand": "Nike",
+        "price": "€ 94,95",
+        "color": "black"
+      }
+    ]
+}
