@@ -1,5 +1,5 @@
 {
-    "products": [
+    "women": [
       {
         "id": 1,
         "image": "images/header.jpg",
@@ -8,7 +8,7 @@
         "brand": "Nike",
         "price": "€ 94,95",
         "color": "black",
-        "gender": "women"
+        "gender": "woman"
       },
       {
         "id": 2,
@@ -18,7 +18,7 @@
         "brand": "Puma",
         "price": "€ 59,95",
         "color": "white/silver",
-        "gender": "women"
+        "gender": "woman"
       },
       {
         "id": 3,
@@ -28,7 +28,7 @@
         "brand": "Skechers Sport",
         "price": "€ 59,95",
         "color": "black/rose gold",
-        "gender": "women"
+        "gender": "woman"
       },
       {
         "id": 4,
@@ -38,7 +38,7 @@
         "brand": "Buffalo",
         "price": "€ 99,99",
         "color": "white",
-        "gender": "women"
+        "gender": "woman"
       },
       {
         "id": 5,
@@ -48,7 +48,7 @@
         "brand": "Tata Italia",
         "price": "€ 54,95",
         "color": "black",
-        "gender": "women"
+        "gender": "woman"
       },
       {
         "id": 6,
@@ -58,7 +58,7 @@
         "brand": "Calvin Klein Jeans",
         "price": "€ 99,95",
         "color": "black",
-        "gender": "women"
+        "gender": "woman"
       }
     ],
     "men": [
