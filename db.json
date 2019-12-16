@@ -2,7 +2,6 @@
     "women": [
       {
         "id": 1,
-        "image": "../images/shoes/NI111A0IU-Q12.png",
         "article": "NI111A0IU-Q12",
         "name": "RYZ - Sneakers laag",
         "brand": "Nike",
@@ -12,7 +11,6 @@
       },
       {
         "id": 2,
-        "image": "images/header.jpg",
         "article": "PU111A0BL-A11",
         "name": "CARINA - Sneakers laag",
         "brand": "Puma",
@@ -22,7 +20,6 @@
       },
       {
         "id": 3,
-        "image": "images/header.jpg",
         "article": "SK211S027-Q11",
         "name": "OG 85 - Sneakers laag",
         "brand": "Skechers Sport",
@@ -32,7 +29,6 @@
       },
       {
         "id": 4,
-        "image": "images/header.jpg",
         "article": "BU311A06S-A11",
         "name": "CORIN - Sneakers laag",
         "brand": "Buffalo",
@@ -42,7 +38,6 @@
       },
       {
         "id": 5,
-        "image": "images/header.jpg",
         "article": "TT911A086-Q11",
         "name": "Sneakers laag",
         "brand": "Tata Italia",
@@ -52,7 +47,6 @@
       },
       {
         "id": 6,
-        "image": "images/header.jpg",
         "article": "C1811E00P-Q11",
         "name": "ZOLAH - Sneakers laag",
         "brand": "Calvin Klein Jeans",
@@ -64,7 +58,6 @@
     "men": [
       {
         "id": 7,
-        "image": "images/header.jpg",
         "article": "C1Q12O001-A11",
         "name": "DICKSON CLASSIC - Sneakers laag - white",
         "brand": "Cotton on",
@@ -73,8 +66,7 @@
         "gender": "men"
       },
       {
-        "id": 8,
-        "image": "images/header.jpg",
+        "id": 8,       
         "article": "NI112B02W-802",
         "name": "AIR FORCE 1 '07 - Sneakers laag",
         "brand": "Nike Sportswear",
@@ -83,8 +75,7 @@
         "gender": "men"
       },
       {
-        "id": 9,
-        "image": "images/header.jpg",
+        "id": 9,       
         "article": "NI112O0AE-Q11",
         "name": "AIR FORCE 1 07 LV8 - Sneakers laag",
         "brand": "Nike Sportswear",
@@ -93,8 +84,7 @@
         "gender": "men"
       },
       {
-        "id": 10,
-        "image": "images/header.jpg",
+        "id": 10,       
         "article": "BJ212O01H-A11",
         "name": "Sneakers laag",
         "brand": "Björn Borg",
@@ -103,8 +93,7 @@
         "gender": "men"
       },
       {
-        "id": 11,
-        "image": "images/header.jpg",
+        "id": 11,       
         "article": "C1Q12O000-Q11",
         "name": "AXEL SHOE - Sneakers laag",
         "brand": "Cotton on",
@@ -113,8 +102,7 @@
         "gender": "men"
       },
       {
-        "id": 12,
-        "image": "images/header.jpg",
+        "id": 12,       
         "article": "PUC12O068-Q11",
         "name": "MIT ELEMENT AM ABSATZ - Sneakers laag",
         "brand": "PULL&BEAR",
@@ -125,8 +113,7 @@
     ],
     "children": [
       {
-        "id": 13,
-        "image": "images/header.jpg",
+        "id": 13,      
         "article": "C1Q13D000-A11",
         "name": "DICKSON CLASSIC - Sneakers laag - white",
         "brand": "Cotton on",
@@ -135,8 +122,7 @@
         "gender": "children"
       },
       {
-        "id": 14,
-        "image": "images/header.jpg",
+        "id": 14,       
         "article": "NI112B02W-802",
         "name": "CORE TRAINER - Sneakers laag",
         "brand": "Cotton on",
@@ -145,8 +131,7 @@
         "gender": "children"
       },
       {
-        "id": 15,
-        "image": "images/header.jpg",
+        "id": 15,       
         "article": "NI114D08Q-Q11",
         "name": "AIR MAX 270 - Sneakers laag",
         "brand": "Nike Sportswear",
@@ -155,8 +140,7 @@
         "gender": "children"
       },
       {
-        "id": 16,
-        "image": "images/header.jpg",
+        "id": 16,       
         "article": "M3I13D00L-T11",
         "name": "Sneakers laag",
         "brand": "Massimo Dutti",
@@ -165,8 +149,7 @@
         "gender": "children"
       },
       {
-        "id": 17,
-        "image": "images/header.jpg",
+        "id": 17,      
         "article": "RE014D01N-Q11",
         "name": "CLASSIC LEATHER SHOES - Sneakers laag",
         "brand": "Reebok Classic",
@@ -175,8 +158,7 @@
         "gender": "children"
       },
       {
-        "id": 18,
-        "image": "images/header.jpg",
+        "id": 18,      
         "article": "VA214D020-Q11",
         "name": "OLD SKOOL - Sneakers laag",
         "brand": "Vans",
