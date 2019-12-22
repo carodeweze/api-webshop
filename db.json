@@ -172,17 +172,17 @@
         "firstname": "Caro",
         "lastname": "De Weze",
         "adres": "Zwart Venlaan 6",
-        "postcode": 2920,
-        "gemeente": "Kalmthout",
+        "postalCode": 2920,
+        "township": "Kalmthout",
         "email": "caro_de_weze@hotmail.com",
         "password": "testtest"
       },
       { "id": 2,
         "firstname": "admin",
         "lastname": "admin",
-        "adres": "admin",
-        "postcode": 2920,
-        "gemeente": "admin",
+        "address": "admin",
+        "postalCode": 2920,
+        "township": "admin",
         "email": "admin@admin.com",
         "password": "adminadmin"
       }
