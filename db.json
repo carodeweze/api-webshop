@@ -166,5 +166,25 @@
         "color": "black/true white",
         "gender": "children"
       }
+    ],
+    "users": [
+      { "id": 1,
+        "firstname": "Caro",
+        "lastname": "De Weze",
+        "adres": "Zwart Venlaan 6",
+        "postcode": 2920,
+        "gemeente": "Kalmthout",
+        "email": "caro_de_weze@hotmail.com",
+        "password": "testtest"
+      },
+      { "id": 2,
+        "firstname": "admin",
+        "lastname": "admin",
+        "adres": "admin",
+        "postcode": 2920,
+        "gemeente": "admin",
+        "email": "admin@admin.com",
+        "password": "adminadmin"
+      }
     ]
 }
