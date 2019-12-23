@@ -171,7 +171,7 @@
       { "id": 1,
         "firstname": "Caro",
         "lastname": "De Weze",
-        "adres": "Zwart Venlaan 6",
+        "address": "Zwart Venlaan 6",
         "postalCode": 2920,
         "township": "Kalmthout",
         "email": "caro_de_weze@hotmail.com",
