@@ -176,10 +176,8 @@
         "township": "Kalmthout",
         "email": "caro_de_weze@hotmail.com",
         "password": "testtest"
-      }
-    ],
-    "administrators": [
-      { "id": 1,
+      },
+      { "id": 2,
         "firstname": "admin",
         "lastname": "admin",
         "address": "admin",
