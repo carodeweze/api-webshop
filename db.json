@@ -3,7 +3,7 @@
       {
         "id": 1,
         "article": "NI111A0IU-Q12",
-        "name": "RYZ - Sneakers laag",
+        "name": "Nike-Sneakers-laag",
         "brand": "Nike",
         "price": "94,95",
         "color": "black",
@@ -12,7 +12,7 @@
       {
         "id": 2,
         "article": "PU111A0BL-A11",
-        "name": "CARINA - Sneakers laag",
+        "name": "Carina-Sneakers-laag",
         "brand": "Puma",
         "price": "59,95",
         "color": "white/silver",
@@ -21,7 +21,7 @@
       {
         "id": 3,
         "article": "SK211S027-Q11",
-        "name": "OG 85 - Sneakers laag",
+        "name": "OG-Sneakers-laag",
         "brand": "Skechers Sport",
         "price": "59,95",
         "color": "black/rose gold",
@@ -30,7 +30,7 @@
       {
         "id": 4,
         "article": "BU311A06S-A11",
-        "name": "CORIN - Sneakers laag",
+        "name": "Corin-Sneakers-laag",
         "brand": "Buffalo",
         "price": "99,99",
         "color": "white",
@@ -39,7 +39,7 @@
       {
         "id": 5,
         "article": "TT911A086-Q11",
-        "name": "Sneakers laag",
+        "name": "Sneakers-laag",
         "brand": "Tata Italia",
         "price": "54,95",
         "color": "black",
@@ -48,7 +48,7 @@
       {
         "id": 6,
         "article": "C1811E00P-Q11",
-        "name": "ZOLAH - Sneakers laag",
+        "name": "Zolah-Sneakers-laag",
         "brand": "Calvin Klein Jeans",
         "price": "99,95",
         "color": "black",
@@ -59,7 +59,7 @@
       {
         "id": 7,
         "article": "C1Q12O001-A11",
-        "name": "DICKSON CLASSIC - Sneakers laag - white",
+        "name": "DICKSON-CLASSIC",
         "brand": "Cotton on",
         "price": "34,95",
         "color": "white",
@@ -68,7 +68,7 @@
       {
         "id": 8,       
         "article": "NI112B02W-802",
-        "name": "AIR FORCE 1 '07 - Sneakers laag",
+        "name": "AIR-FORCE",
         "brand": "Nike Sportswear",
         "price": "99,95",
         "color": "black",
@@ -77,7 +77,7 @@
       {
         "id": 9,       
         "article": "NI112O0AE-Q11",
-        "name": "AIR FORCE 1 07 LV8 - Sneakers laag",
+        "name": "AIR-FORCE",
         "brand": "Nike Sportswear",
         "price": "104,95",
         "color": "black/wolf grey/white",
@@ -86,7 +86,7 @@
       {
         "id": 10,       
         "article": "BJ212O01H-A11",
-        "name": "Sneakers laag",
+        "name": "Sneakers-laag",
         "brand": "Björn Borg",
         "price": "69,95",
         "color": "white/olive",
@@ -95,7 +95,7 @@
       {
         "id": 11,       
         "article": "C1Q12O000-Q11",
-        "name": "AXEL SHOE - Sneakers laag",
+        "name": "AXEL-SHOE",
         "brand": "Cotton on",
         "price": "27,95",
         "color": "black/white",
@@ -104,7 +104,7 @@
       {
         "id": 12,       
         "article": "PUC12O068-Q11",
-        "name": "MIT ELEMENT AM ABSATZ - Sneakers laag",
+        "name": "MIT-ELEMENT-AM-ABSATZ",
         "brand": "PULL&BEAR",
         "price": "35,99",
         "color": "black",
@@ -115,7 +115,7 @@
       {
         "id": 13,      
         "article": "C1Q13D000-A11",
-        "name": "DICKSON CLASSIC - Sneakers laag - white",
+        "name": "DICKSON-CLASSIC-white",
         "brand": "Cotton on",
         "price": "34,95",
         "color": "white",
@@ -124,7 +124,7 @@
       {
         "id": 14,       
         "article": "NI112B02W-802",
-        "name": "CORE TRAINER - Sneakers laag",
+        "name": "CORE-TRAINER",
         "brand": "Cotton on",
         "price": "14,95",
         "color": "white smooth",
@@ -133,7 +133,7 @@
       {
         "id": 15,       
         "article": "NI114D08Q-Q11",
-        "name": "AIR MAX 270 - Sneakers laag",
+        "name": "AIR-MAX-270",
         "brand": "Nike Sportswear",
         "price": "119,90",
         "color": "black",
@@ -142,7 +142,7 @@
       {
         "id": 16,       
         "article": "M3I13D00L-T11",
-        "name": "Sneakers laag",
+        "name": "Sneakers-laag",
         "brand": "Massimo Dutti",
         "price": "49,95",
         "color": "grey",
@@ -151,7 +151,7 @@
       {
         "id": 17,      
         "article": "RE014D01N-Q11",
-        "name": "CLASSIC LEATHER SHOES - Sneakers laag",
+        "name": "CLASSIC-LEATHER-SHOES",
         "brand": "Reebok Classic",
         "price": "54,95",
         "color": "black",
@@ -160,7 +160,7 @@
       {
         "id": 18,      
         "article": "VA214D020-Q11",
-        "name": "OLD SKOOL - Sneakers laag",
+        "name": "OLD-SKOOL",
         "brand": "Vans",
         "price": "49,95",
         "color": "black/true white",
