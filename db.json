@@ -62,9 +62,7 @@
         "price": "34,95",
         "color": "white",
         "gender": "men"
-      }
-    ],
-    "men": [
+      },
       {
         "id": 8,       
         "article": "NI112B02W-802",
@@ -109,9 +107,7 @@
         "price": "35,99",
         "color": "black",
         "gender": "men"
-      }
-    ],
-    "children": [
+      },
       {
         "id": 13,      
         "article": "C1Q13D000-A11",
