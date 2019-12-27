@@ -39,7 +39,7 @@
       {
         "id": 5,
         "article": "TT911A086-Q11",
-        "name": "Sneakers-laag",
+        "name": "Tata-Italia-Sneakers-laag",
         "brand": "Tata Italia",
         "price": "54,95",
         "color": "black",
@@ -66,7 +66,7 @@
       {
         "id": 8,       
         "article": "NI112B02W-802",
-        "name": "AIR-FORCE",
+        "name": "AIR-FORCE-black",
         "brand": "Nike Sportswear",
         "price": "99,95",
         "color": "black",
@@ -75,7 +75,7 @@
       {
         "id": 9,       
         "article": "NI112O0AE-Q11",
-        "name": "AIR-FORCE",
+        "name": "AIR-FORCE-grey",
         "brand": "Nike Sportswear",
         "price": "104,95",
         "color": "black/wolf grey/white",
@@ -84,7 +84,7 @@
       {
         "id": 10,       
         "article": "BJ212O01H-A11",
-        "name": "Sneakers-laag",
+        "name": "Björn-Borg-Sneakers-laag",
         "brand": "Björn Borg",
         "price": "69,95",
         "color": "white/olive",
@@ -138,7 +138,7 @@
       {
         "id": 16,       
         "article": "M3I13D00L-T11",
-        "name": "Sneakers-laag",
+        "name": "Massimo-Dutti-Sneakers-laag",
         "brand": "Massimo Dutti",
         "price": "49,95",
         "color": "grey",
